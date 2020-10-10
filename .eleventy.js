@@ -43,9 +43,14 @@ module.exports = function(eleventyConfig) {
           switch(item) {
             // this list should match the `filter` list in tags.njk
             case "all":
+            case "brewing":
+            case "configuration":
+            case "kb":
+            case "leaking":
             case "nav":
             case "post":
             case "posts":
+            case "power":
               return false;
           }
 
@@ -64,6 +69,8 @@ module.exports = function(eleventyConfig) {
 
   eleventyConfig.addPassthroughCopy("img");
   eleventyConfig.addPassthroughCopy("css");
+  eleventyConfig.addPassthroughCopy("images");
+  eleventyConfig.addPassthroughCopy("pdf");
 
   /* Markdown Overrides */
   let markdownLibrary = markdownIt({
@@ -81,7 +88,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.setBrowserSyncConfig({
     callbacks: {
       ready: function(err, browserSync) {
-        const content_404 = fs.readFileSync('_site/404.html');
+        const content_404 = fs.readFileSync('dist/404.html');
 
         browserSync.addMiddleware("*", (req, res) => {
           // Provides the 404 content without redirect.
@@ -118,10 +125,8 @@ module.exports = function(eleventyConfig) {
 
     // These are all optional, defaults are shown:
     dir: {
-      input: ".",
-      includes: "_includes",
-      data: "_data",
-      output: "_site"
+      input: "src",
+      output: "dist"
     }
   };
 };

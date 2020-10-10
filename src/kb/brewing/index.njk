@@ -1,0 +1,18 @@
+---
+layout: layouts/home.njk
+permalink: /kb/brewing/
+eleventyNavigation:
+  key: Brewing
+  parent: SmartBrew Knowledge Base
+  order: 2
+---
+
+<h1>SmartBrew Knowledge Base - Brewing Issues</h1>
+  <ul>
+    <li><a href="errors/">Error Screens</a></li>
+  </ul>
+
+<h2>KB Archive</h2>
+
+{% set postslist = collections.kb %}
+{% include "postslist.njk" %}
