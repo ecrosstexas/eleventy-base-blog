@@ -1,10 +1,15 @@
 ---
 title: TeaWorld Production release 1.0.35
-description: 
+description:
 date: 2020-09-15
 tags: teaworld
-layout: layouts/post.njk
 ---
+## Release Date
+
+September 15, 2020
+
+## Changelog
+
 This release includes the following items:
 
 | Phase 2 Req. # | Description | VG Ticket |

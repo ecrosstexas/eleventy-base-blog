@@ -2,11 +2,29 @@
 layout: layouts/base.njk
 templateClass: tmpl-post
 ---
-<h1>{{ title }}</h1>
+{% block content %}
 
-{{ content | safe }}
+<article>
+  <h1>{{ title }}</h1>
+  <aside>
+  {{ content | toc | safe }}
+</aside>
+  {{ content | safe }}
+    {% include "partials/resolutionCodes.html" %}
 
+    {# {% -if {{ dispatchTech }} = Yes %}
+      {% include "partials/dispatchTech.html" %}
+     {% endif %} #}
+
+</article>
+
+{% endblock %}
 <hr>
+Tags:
+  {% for tag in tags -%}
+    <a href="/tags/{{ tag }}" class="post-tag">{{ tag }}</a>
+  {% endfor -%}
+
 <ul>
   {%- set nextPost = collections.kb | getNextCollectionItem(page) %}
   {%- if nextPost %}<li>Next: <a href="{{ nextPost.url | url }}">{{ nextPost.data.title }}</a></li>{% endif %}

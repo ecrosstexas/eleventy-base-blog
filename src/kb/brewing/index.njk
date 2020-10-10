@@ -1,4 +1,5 @@
 ---
+title: SmartBrew Knowledge Base - Brewing Issues
 layout: layouts/home.njk
 permalink: /kb/brewing/
 eleventyNavigation:
@@ -7,12 +8,12 @@ eleventyNavigation:
   order: 2
 ---
 
-<h1>SmartBrew Knowledge Base - Brewing Issues</h1>
   <ul>
-    <li><a href="errors/">Error Screens</a></li>
+    <li><a href="/kb/brewing/error-screens/">Error Screens</a></li>
+
   </ul>
 
-<h2>KB Archive</h2>
+<h2>{{title}} Archives</h2>
 
-{% set postslist = collections.kb %}
+{% set postslist = collections.brewing %}
 {% include "postslist.njk" %}

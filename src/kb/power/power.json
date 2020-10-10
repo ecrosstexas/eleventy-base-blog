@@ -1,6 +1,7 @@
 {
     "tags": [
       "power"
-    ]
+    ],
+    "layout": "layouts/kb.njk"
+
   }
-  

@@ -1,6 +1,6 @@
 {
-    "tags": [
-      "config"
-    ]
-  }
-  
+  "tags": [
+    "config"
+  ],
+  "layout": "layouts/kb.njk"
+}

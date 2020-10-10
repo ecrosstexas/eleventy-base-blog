@@ -5,12 +5,16 @@ const pluginSyntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 const pluginNavigation = require("@11ty/eleventy-navigation");
 const markdownIt = require("markdown-it");
 const markdownItAnchor = require("markdown-it-anchor");
+const pluginTOC = require('eleventy-plugin-toc')
 
 module.exports = function(eleventyConfig) {
   eleventyConfig.addPlugin(pluginRss);
   eleventyConfig.addPlugin(pluginSyntaxHighlight);
   eleventyConfig.addPlugin(pluginNavigation);
+  eleventyConfig.addPlugin(pluginTOC);
 
+  eleventyConfig.addPassthroughCopy({'./src/_assets/': "/" });
+  
   eleventyConfig.setDataDeepMerge(true);
 
   eleventyConfig.addLayoutAlias("post", "layouts/post.njk");
@@ -43,14 +47,10 @@ module.exports = function(eleventyConfig) {
           switch(item) {
             // this list should match the `filter` list in tags.njk
             case "all":
-            case "brewing":
-            case "configuration":
             case "kb":
-            case "leaking":
             case "nav":
             case "post":
             case "posts":
-            case "power":
               return false;
           }
 
@@ -67,10 +67,8 @@ module.exports = function(eleventyConfig) {
     return [...tagSet];
   });
 
-  eleventyConfig.addPassthroughCopy("img");
-  eleventyConfig.addPassthroughCopy("css");
-  eleventyConfig.addPassthroughCopy("images");
-  eleventyConfig.addPassthroughCopy("pdf");
+  
+
 
   /* Markdown Overrides */
   let markdownLibrary = markdownIt({
@@ -119,7 +117,7 @@ module.exports = function(eleventyConfig) {
     // You can also pass this in on the command line using `--pathprefix`
     // pathPrefix: "/",
 
-    markdownTemplateEngine: "liquid",
+    markdownTemplateEngine: "njk",
     htmlTemplateEngine: "njk",
     dataTemplateEngine: "njk",
 
