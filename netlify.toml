@@ -1,7 +1,3 @@
 [build]
   publish = "dist"
-<<<<<<< HEAD
   command = "DEBUG=* eleventy"
-=======
-  command = "DEBUG=* eleventy"
->>>>>>> 11bf0b335acdd44ae8802839951ab03c004e75a1
