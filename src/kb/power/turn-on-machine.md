@@ -1,10 +1,8 @@
 ---
-title: Step 2 - Turn on SmartBrew Machine
+title: Turn on SmartBrew Machine
 description:
 date: 2020-10-01
 tags:
-  - electrical
-  - power
 problemCode: 100
 resolutionCode: 102
 nextStepURL: "/kb/power/check-circuit-breaker/"

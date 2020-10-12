@@ -1,10 +1,9 @@
 ---
-title: Step 5 - Check Transformer
+title: Check Transformer
 description:
 date: 2020-10-01
 tags:
-  - electrical
-  - power
+  - transformer
 problemCode: 
 resolutionCode: 105
 nextStepURL: "/kb/power/check-main-board/"

@@ -1,6 +1,7 @@
 {
     "tags": [
-      "power"
+      "power",
+      "electrical"
     ],
     "layout": "layouts/kb.njk"
 

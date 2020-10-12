@@ -1,10 +1,8 @@
 ---
-title: Step 2 - Turn on Tablet
+title: Turn on Tablet
 description:
 date: 2020-10-01
 tags:
-  - electrical
-  - power
   - tablet
 problemCode: 
 resolutionCode: 

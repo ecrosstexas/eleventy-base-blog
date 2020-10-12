@@ -1,10 +1,9 @@
 ---
-title: Step 6 - Check Main Board
+title: Check Main Board
 description:
 date: 2020-10-01
 tags:
-  - electrical
-  - power
+  - "main board"
 problemCode: 
 resolutionCode: 106
 nextStepURL: "/kb/power/check-main-board/"

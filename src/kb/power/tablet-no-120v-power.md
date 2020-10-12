@@ -1,10 +1,8 @@
 ---
-title: Step 4 - No 120v Power to Tablet
+title: No 120v Power to Tablet
 description:
 date: 2020-10-01
 tags:
-  - electrical
-  - power
   - tablet
 problemCode: 
 resolutionCode: 
@@ -12,7 +10,7 @@ nextStepURL: ""
 ---
 ## Possible Cause
 
-- No power at the convenience outlet.
+- No power at the internal convenience outlet for the USB power block.
 
 ## What to Check - Field
 

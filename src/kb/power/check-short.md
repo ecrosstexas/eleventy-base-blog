@@ -1,10 +1,9 @@
 ---
-title: Step 4 - Check Short
+title: Check Short
 description:
 date: 2020-10-01
 tags:
-  - electrical
-  - power
+  - "electrical short"
 problemCode: 
 resolutionCode: 103
 nextStepURL: "/kb/power/check-transformer/"
@@ -32,4 +31,4 @@ nextStepURL: "/kb/power/check-transformer/"
 
 ## Caution
 
-- Do not attempt to reset the breaker if outlet is burned. [Call an electrician](/kb/power/needs-electrician/)
+- Do not attempt to reset the breaker if outlet is burned. [Call an electrician](/kb/power/need-electrician/)

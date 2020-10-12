@@ -1,10 +1,9 @@
 ---
-title: Step 3 - Check Circuit Breaker
+title: Check Circuit Breaker
 description:
 date: 2020-10-01
 tags:
-  - electrical
-  - power
+  - "circuit breaker"
 problemCode: 
 resolutionCode: 103
 nextStepURL: "/kb/power/check-short/"
@@ -30,13 +29,13 @@ If the SmartBrew machine is plugged into a GFCI outlet you can check to see if t
 
 ![Picture of GFCI outlet](/images/gfci_reset_outlet.jpg)
 
-If the GFCI outlet is regularly tripping, please advise the customer they will [need an electrician](/kb/power/needs-electrician/) to address the issue.
+If the GFCI outlet is regularly tripping, please advise the customer they will [need an electrician](/kb/power/need-electrician/) to address the issue.
 
 ## Action Needed - Phone
 
 1) Check to see if there is another unit that is off if the TEAZZERS unit is plugged into single use outlet.  
 
-2) [Call an electrician](/kb/power/needs-electrician/) to run a new dedicated circuit.
+2) [Call an electrician](/kb/power/need-electrician/) to run a new dedicated circuit.
 
 ## Caution
 

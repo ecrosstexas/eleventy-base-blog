@@ -3,7 +3,7 @@ title: SmartBrew Electrical Specs
 description: Man PN – 757558 Rev 071819
 date: 2020-09-15
 tags:
-  - electrical
+  - specs
   - installation
   - manual
 ---

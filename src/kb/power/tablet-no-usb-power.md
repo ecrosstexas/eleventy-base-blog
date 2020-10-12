@@ -1,11 +1,10 @@
 ---
-title: Step 3 - No USB Power to Tablet
+title: No USB Power to Tablet
 description:
 date: 2020-10-01
 tags:
-  - electrical
-  - power
   - tablet
+  - USB
 problemCode: 
 resolutionCode: 
 nextStepURL: "/kb/power/tablet-no-120v-power/"
@@ -16,7 +15,8 @@ nextStepURL: "/kb/power/tablet-no-120v-power/"
 
 ## What to Check - Field
 
-- Loose connections on tablet, power pack, USB cable.
+- Loose connections on the tablet, power pack, USB cable.
+- Damaged USB cable.
 
 ## Action Needed - Field
 

@@ -1,10 +1,8 @@
 ---
-title: Step 1 - Tablet Battery Discharged
+title: Tablet Battery Discharged
 description:
 date: 2020-10-01
 tags:
-  - electrical
-  - power
   - tablet
 problemCode: 
 resolutionCode: 
@@ -17,7 +15,7 @@ nextStepURL: "/kb/power/turn-on-tablet/"
 ## What to Check - Phone
 
 - Power disconnected for an extended period of time. 
-- The tablet will not charge if the machine is turned off.  If machine has been off for a few days the tablet battery will eventually die. After power is restored to the machine, the battery will begin to charge. After reaching 3-5% the battery should allow the tablet to turn on.
+- The tablet will not charge if the machine is turned off. If machine has been off for a few days the tablet battery will eventually die. After power is restored to the machine, the battery will begin to charge. After reaching 3-5% the battery should allow the tablet to turn on.
 
 ## Action Needed - Phone
 
