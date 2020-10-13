@@ -6,7 +6,7 @@ tags:
   - "tea quality"
   - urns
 problemCode: 
-resolutionCode: 218
+resolutionCode: 212
 nextStepURL: "/kb/brewing/check-sprayhead/"
 ---
 ## Possible Cause

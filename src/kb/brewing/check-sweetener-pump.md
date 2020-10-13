@@ -7,7 +7,7 @@ tags:
   - sweetener
   - "sweetener pump"
 problemCode: 
-resolutionCode: 209
+resolutionCode: 220
 nextStepURL: "/kb/brewing/check-sweetener-tube/"
 ---
 ## Possible Cause
