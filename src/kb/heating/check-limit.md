@@ -6,7 +6,7 @@ tags:
   - electrical
   - "limit thermostat"
 problemCode: 
-resolutionCode: 
+resolutionCode: 302
 nextStepURL: "/kb/heating/check-heater-relay/"
 ---
 ## Possible Cause

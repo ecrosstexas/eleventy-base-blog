@@ -5,7 +5,7 @@ date: 2020-10-01
 tags:
   - "electrical short"
 problemCode: 
-resolutionCode: 103
+resolutionCode: 104
 nextStepURL: "/kb/power/check-transformer/"
 ---
 ## Possible Cause

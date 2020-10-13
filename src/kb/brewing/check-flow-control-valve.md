@@ -7,7 +7,7 @@ tags:
   - "tank not filling"
   - "water supply"
 problemCode: 
-resolutionCode: 
+resolutionCode: 206
 nextStepURL: "/kb/brewing/check-water-level-probe/"
 ---
 ## Possible Cause

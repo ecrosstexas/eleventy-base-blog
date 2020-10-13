@@ -6,7 +6,7 @@ tags:
   - "tea quality"
   - thermistor
 problemCode: 
-resolutionCode: 
+resolutionCode: 304
 nextStepURL: "/kb/brewing/check-programming/"
 ---
 ## Possible Cause

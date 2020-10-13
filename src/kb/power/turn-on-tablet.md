@@ -5,7 +5,7 @@ date: 2020-10-01
 tags:
   - tablet
 problemCode: 
-resolutionCode: 
+resolutionCode: 108
 nextStepURL: "/kb/power/tablet-no-usb-power/"
 ---
 ## Possible Cause

@@ -8,7 +8,7 @@ tags:
   - "water filter"
   - "water supply"
 problemCode: 
-resolutionCode: 
+resolutionCode: 201
 nextStepURL: "/kb/brewing/check-water-filter/"
 ---
 ## Possible Cause

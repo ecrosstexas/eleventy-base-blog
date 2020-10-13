@@ -7,7 +7,7 @@ tags:
   - programming
   - tablet
 problemCode: 
-resolutionCode: 
+resolutionCode: 217
 nextStepURL: "/kb/brewing/"
 ---
 ## Possible Cause

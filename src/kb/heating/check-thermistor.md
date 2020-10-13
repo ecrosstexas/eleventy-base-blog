@@ -7,7 +7,7 @@ tags:
   - thermistor
   - "hot water"
 problemCode: 
-resolutionCode: 
+resolutionCode: 304
 nextStepURL: "/kb/heating/check-tank-sediment/"
 ---
 ## Possible Cause

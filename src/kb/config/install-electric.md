@@ -6,7 +6,7 @@ tags:
   - installation
   - electrical
 problemCode: 
-resolutionCode: 
+resolutionCode: 507
 nextStepURL: "/kb/config/"
 ---
 ## Possible Cause

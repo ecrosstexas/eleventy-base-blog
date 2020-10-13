@@ -1,6 +1,6 @@
 ---
 title: SmartBrew Knowledge Base - Short Brew Cycles
-layout: layouts/home.njk
+layout: "layouts/home.njk"
 permalink: /kb/brewing/short-cycle/
 eleventyNavigation:
   key: Brewing

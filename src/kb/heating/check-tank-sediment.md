@@ -6,7 +6,7 @@ tags:
   - sediment
   - "hot water tank"
 problemCode: 
-resolutionCode: 
+resolutionCode: 306
 nextStepURL: "/kb/heating/check-heater-element/"
 ---
 ## Possible Cause

@@ -2,6 +2,7 @@
 title: Fill Time Out Error
 description:
 date: 2020-09-15
+layout: layouts/home.njk
 tags:
   - "hot water"
   - "tank not filling"
@@ -29,5 +30,3 @@ Or
 ## Action Needed - Phone
 
 - Review [Tank not filling issues](/kb/brewing/not-filling/)
-
-## Caution

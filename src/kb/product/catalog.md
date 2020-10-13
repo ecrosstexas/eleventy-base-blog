@@ -2,6 +2,7 @@
 title: TEAZZERS Product Catalog
 description:
 date: 2020-09-15
+layout: layouts/home.njk
 tags:
   - installation
 ---

@@ -1,6 +1,6 @@
 ---
 title: Tea is Bitter
-layout: layouts/home.njk
+layout: "layouts/home.njk"
 permalink: /kb/brewing/bitter-tea/
 eleventyNavigation:
   key: Brewing

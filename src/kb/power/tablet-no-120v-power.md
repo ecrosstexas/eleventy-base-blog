@@ -5,8 +5,8 @@ date: 2020-10-01
 tags:
   - tablet
 problemCode: 
-resolutionCode: 
-nextStepURL: ""
+resolutionCode: 110
+nextStepURL: "/kb/power/"
 ---
 ## Possible Cause
 

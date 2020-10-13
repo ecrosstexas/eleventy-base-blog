@@ -6,7 +6,7 @@ tags:
   - "tea"
   - "pinch tube"
 problemCode: 
-resolutionCode: 
+resolutionCode: 407
 nextStepURL: "/kb/leaking/"
 ---
 ## Possible Cause

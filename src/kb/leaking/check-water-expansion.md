@@ -6,7 +6,7 @@ tags:
   - "hot water"
   - "water dripping"
 problemCode: 
-resolutionCode: 
+resolutionCode: 404
 nextStepURL: "/kb/leaking/check-tank-fill-valve-dripping/"
 ---
 ## Possible Cause

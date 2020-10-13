@@ -2,5 +2,5 @@
   "tags": [
     "parts"
   ],
-  "layout": "layouts/kb.njk"
+  "layout": "layouts/home.njk"
 }

@@ -7,7 +7,7 @@ tags:
   - thermistor
   - overheating
 problemCode: 
-resolutionCode: 
+resolutionCode: 304
 nextStepURL: "/kb/heating/check-heater-relay-overheating/"
 ---
 ## Possible Cause

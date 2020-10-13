@@ -7,7 +7,7 @@ tags:
   - tablet
   - communication
 problemCode: 
-resolutionCode: 
+resolutionCode: 112
 nextStepURL: "/kb/power/"
 ---
 ## Possible Cause

@@ -9,7 +9,7 @@ tags:
   - "cell data"
   - "mobile data"
 problemCode: 
-resolutionCode: 
+resolutionCode: 111
 nextStepURL: "/kb/power/connect-wifi/"
 ---
 ## Possible Cause

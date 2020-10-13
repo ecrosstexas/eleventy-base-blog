@@ -7,7 +7,7 @@ tags:
   - overheating
   - "heater element"
 problemCode: 
-resolutionCode: 
+resolutionCode: 307
 nextStepURL: "/kb/heating/check-tank-temperature/"
 ---
 ## Possible Cause

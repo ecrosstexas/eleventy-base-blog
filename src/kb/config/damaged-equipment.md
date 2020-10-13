@@ -6,7 +6,7 @@ tags:
   - installation
   - freight
 problemCode: 
-resolutionCode: 
+resolutionCode: 505
 nextStepURL: "/kb/config/"
 ---
 ## Possible Cause

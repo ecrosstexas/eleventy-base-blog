@@ -7,7 +7,7 @@ tags:
   - "water dripping"
   - "level probe"
 problemCode: 
-resolutionCode: 
+resolutionCode: 401
 nextStepURL: "/kb/leaking/check-brew-dump-valve/"
 ---
 ## Possible Cause

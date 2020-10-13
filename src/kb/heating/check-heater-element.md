@@ -6,7 +6,7 @@ tags:
   - electrical
   - "heater elemet"
 problemCode: 
-resolutionCode: 
+resolutionCode: 307
 nextStepURL: "/kb/heating/"
 ---
 ## Possible Cause

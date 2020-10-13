@@ -7,7 +7,7 @@ tags:
   - sweetener
   - "tea quality"
 problemCode: 
-resolutionCode: 
+resolutionCode: 214
 nextStepURL: "/kb/brewing/check-cold-water-dilution/"
 ---
 ## Possible Cause

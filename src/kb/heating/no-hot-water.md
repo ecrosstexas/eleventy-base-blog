@@ -6,7 +6,7 @@ tags:
   - electrical
   - "hot water"
 problemCode: 
-resolutionCode: 
+resolutionCode: 301
 nextStepURL: "/kb/heating/check-limit/"
 ---
 ## Possible Cause

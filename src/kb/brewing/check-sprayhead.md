@@ -6,7 +6,7 @@ tags:
   - "tea quality"
   - sprayhead
 problemCode: 
-resolutionCode: 
+resolutionCode: 216
 nextStepURL: "/kb/brewing/check-thermistor/"
 ---
 ## Possible Cause

@@ -2,5 +2,5 @@
   "tags": [
     "firmware"
   ],
-  "layout": "layouts/kb.njk"
+  "layout": "layouts/home.njk"
 }

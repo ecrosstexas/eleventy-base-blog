@@ -6,7 +6,7 @@ tags:
   - installation
   - freight
 problemCode: 
-resolutionCode: 
+resolutionCode: 510
 nextStepURL: "/kb/config/"
 ---
 ## Possible Cause

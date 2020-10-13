@@ -9,7 +9,7 @@ tags:
   - sediment
   - "solenoid valve"
 problemCode: 
-resolutionCode: 
+resolutionCode: 208
 nextStepURL: "/kb/brewing/check-sweetener-calibration/"
 ---
 ## Possible Cause

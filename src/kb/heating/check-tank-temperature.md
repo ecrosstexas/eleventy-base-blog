@@ -8,7 +8,7 @@ tags:
   - "hot water tank"
   - temperator
 problemCode: 
-resolutionCode: 
+resolutionCode: 308
 nextStepURL: "/kb/heating/"
 ---
 ## Possible Cause

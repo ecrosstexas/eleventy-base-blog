@@ -6,7 +6,7 @@ tags:
   - "main board"
 problemCode: 
 resolutionCode: 106
-nextStepURL: "/kb/power/check-main-board/"
+nextStepURL: "/kb/power/"
 ---
 ## Possible Cause
 

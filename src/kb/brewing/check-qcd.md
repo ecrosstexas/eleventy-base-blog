@@ -7,7 +7,7 @@ tags:
   - sweetener
   - QCD
 problemCode: 
-resolutionCode: 
+resolutionCode: 210
 nextStepURL: "/kb/brewing/check-sweetener-pump/"
 ---
 ## Possible Cause

@@ -6,7 +6,7 @@ tags:
   - "not brewing"
   - sweetener
 problemCode: 
-resolutionCode: 
+resolutionCode: 213
 nextStepURL: "/kb/brewing/check-tablet-not-brewing/"
 ---
 ## Possible Cause

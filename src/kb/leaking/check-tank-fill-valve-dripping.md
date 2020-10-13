@@ -8,7 +8,7 @@ tags:
   - "tank fill valve"
   - "water dripping"
 problemCode: 
-resolutionCode: 
+resolutionCode: 402
 nextStepURL: "/kb/leaking/check-water-level-probe-dripping/"
 ---
 ## Possible Cause

@@ -9,7 +9,7 @@ tags:
   - "solenoid valve"
   - "tank fill valve"
 problemCode: 
-resolutionCode: 
+resolutionCode: 205
 nextStepURL: "/kb/brewing/"
 ---
 ## Possible Cause

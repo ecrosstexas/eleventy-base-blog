@@ -7,7 +7,7 @@ tags:
   - tablet
   - communication
 problemCode: 
-resolutionCode: 
+resolutionCode: 503
 nextStepURL: "/kb/config/"
 ---
 ## Possible Cause

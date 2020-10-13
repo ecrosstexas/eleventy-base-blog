@@ -9,7 +9,7 @@ tags:
   - "tank fill valve"
   - "water dripping"
 problemCode: 
-resolutionCode: 
+resolutionCode: 402
 nextStepURL: "/kb/leaking/check-main-control-board/"
 ---
 ## Possible Cause

@@ -7,7 +7,7 @@ tags:
   - "tank overfilling"
   - "level probe"
 problemCode: 
-resolutionCode: 
+resolutionCode: 401
 nextStepURL: "/kb/leaking/check-tank-fill-valve/"
 ---
 ## Possible Cause

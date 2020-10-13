@@ -8,7 +8,7 @@ tags:
   - "water supply"
   - "main control board"
 problemCode: 
-resolutionCode: 
+resolutionCode: 203
 nextStepURL: "/kb/brewing/check-transformer/"
 ---
 ## Possible Cause

@@ -7,7 +7,7 @@ tags:
   - "water dripping"
   - "brew basket"
 problemCode: 
-resolutionCode: 
+resolutionCode: 405
 nextStepURL: "/kb/leaking/check-water-expansion/"
 ---
 ## Possible Cause

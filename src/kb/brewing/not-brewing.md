@@ -1,6 +1,6 @@
 ---
 title: SmartBrew Knowledge Base - Brew Cycle Not Running
-layout: layouts/home.njk
+layout: "layouts/home.njk"
 permalink: /kb/brewing/not-brewing/
 eleventyNavigation:
   key: Brewing

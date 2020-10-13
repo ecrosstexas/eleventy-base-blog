@@ -6,7 +6,7 @@ tags:
   - installation
   - plumbing
 problemCode: 
-resolutionCode: 
+resolutionCode: 506
 nextStepURL: "/kb/config/"
 ---
 ## Possible Cause

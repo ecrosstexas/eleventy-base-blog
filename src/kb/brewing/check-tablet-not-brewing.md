@@ -10,7 +10,7 @@ tags:
   - "bluetooth board"
   - "main control board"
 problemCode: 
-resolutionCode: 
+resolutionCode: 211
 nextStepURL: "/kb/brewing/check-qcd/"
 ---
 ## Possible Cause

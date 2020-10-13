@@ -6,7 +6,7 @@ tags:
   - installation
   - "counter space"
 problemCode: 
-resolutionCode: 
+resolutionCode: 508
 nextStepURL: "/kb/config/"
 ---
 ## Possible Cause

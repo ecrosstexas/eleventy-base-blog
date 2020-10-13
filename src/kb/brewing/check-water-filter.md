@@ -8,7 +8,7 @@ tags:
   - "water filter"
   - "water supply"
 problemCode: 
-resolutionCode: 
+resolutionCode: 207
 nextStepURL: "/kb/brewing/check-flow-control-valve/"
 ---
 ## Possible Cause

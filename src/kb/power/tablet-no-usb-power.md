@@ -6,7 +6,7 @@ tags:
   - tablet
   - USB
 problemCode: 
-resolutionCode: 
+resolutionCode: 109
 nextStepURL: "/kb/power/tablet-no-120v-power/"
 ---
 ## Possible Cause

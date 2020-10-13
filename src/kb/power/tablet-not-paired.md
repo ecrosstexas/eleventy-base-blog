@@ -6,6 +6,9 @@ tags:
   - "demo mode"
   - tablet
   - brewing
+problemCode:
+resolutionCode: 113
+nextStepURL: "/kb/power/"
 ---
 ## Issue
 

@@ -5,7 +5,7 @@ date: 2020-10-01
 tags:
   - tablet
 problemCode: 
-resolutionCode: 
+resolutionCode: 107
 nextStepURL: "/kb/power/turn-on-tablet/"
 ---
 ## Possible Cause

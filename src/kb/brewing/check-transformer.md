@@ -1,5 +1,5 @@
 ---
-title: Check Main Control Board
+title: Check Transformer
 description:
 date: 2020-10-01
 tags:
@@ -8,7 +8,7 @@ tags:
   - "water supply"
   - transformer
 problemCode: 
-resolutionCode: 
+resolutionCode: 204
 nextStepURL: "/kb/brewing/check-tank-fill-valve/"
 ---
 ## Possible Cause

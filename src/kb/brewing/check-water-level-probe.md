@@ -8,7 +8,7 @@ tags:
   - "water supply"
   - "level probe"
 problemCode: 
-resolutionCode: 
+resolutionCode: 202
 nextStepURL: "/kb/brewing/check-main-control-board/"
 ---
 ## Possible Cause

@@ -2,6 +2,7 @@
 title: SmartBrew Tablet Issues - Blank Screen
 description:
 date: 2020-09-15
+layout: "layouts/home.njk"
 tags:
   - tablet
 ---

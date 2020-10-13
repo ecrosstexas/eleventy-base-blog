@@ -7,7 +7,7 @@ tags:
   - "water dripping"
   - "dump valve"
 problemCode: 
-resolutionCode: 
+resolutionCode: 406
 nextStepURL: "/kb/leaking/"
 ---
 ## Possible Cause

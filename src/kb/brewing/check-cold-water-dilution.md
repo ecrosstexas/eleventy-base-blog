@@ -7,7 +7,7 @@ tags:
   - "tea quality"
   - calibration
 problemCode: 
-resolutionCode: 
+resolutionCode: 215
 nextStepURL: "/kb/brewing/"
 ---
 ## Possible Cause

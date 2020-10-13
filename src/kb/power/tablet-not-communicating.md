@@ -2,6 +2,7 @@
 title: Tablet Not Communicating
 description:
 date: 2020-09-15
+layout: "layouts/home.njk"
 tags:
 problemCode:
 resolutionCode:

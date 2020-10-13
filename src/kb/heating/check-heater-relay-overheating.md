@@ -7,7 +7,7 @@ tags:
   - overheating
   - "heater relay"
 problemCode: 
-resolutionCode: 
+resolutionCode: 303
 nextStepURL: "/kb/heating/check-tank-element-overheating/"
 ---
 ## Possible Cause

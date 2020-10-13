@@ -6,7 +6,7 @@ tags:
   - electrical
   - "heater relay"
 problemCode: 
-resolutionCode: 
+resolutionCode: 303
 nextStepURL: "/kb/heating/check-thermistor-malfunction/"
 ---
 ## Possible Cause

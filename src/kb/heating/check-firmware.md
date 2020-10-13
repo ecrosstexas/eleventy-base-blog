@@ -6,7 +6,7 @@ tags:
   - "main control board"
   - firmware
 problemCode: 
-resolutionCode: 
+resolutionCode: 305
 nextStepURL: "/kb/heating/check-thermistor/"
 ---
 ## Possible Cause

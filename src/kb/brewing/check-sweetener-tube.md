@@ -6,7 +6,7 @@ tags:
   - "not brewing"
   - sweetener
 problemCode: 
-resolutionCode: 
+resolutionCode: 219
 nextStepURL: "/kb/brewing/"
 ---
 ## Possible Cause
