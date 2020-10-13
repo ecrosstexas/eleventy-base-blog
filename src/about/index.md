@@ -7,4 +7,4 @@ eleventyNavigation:
   order: 4
 ---
 
-This is TEAZZERS internal system.
+This is the start of a new era for TEAZZERS.
