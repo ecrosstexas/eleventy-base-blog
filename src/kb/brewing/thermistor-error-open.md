@@ -1,0 +1,18 @@
+---
+title: Thermistor Open Error
+description:
+date: 2020-09-15
+layout: layouts/home.njk
+tags:
+  - "hot water"
+  - "heater"
+  - "thermistor"
+problemCode: 
+resolutionCode: 
+nextStepURL: "/kb/heating/"
+---
+## Possible Cause
+
+![Thermistor Open Error Screen](/images/error_thermistor_open.png)
+
+## What to Check - Phone
