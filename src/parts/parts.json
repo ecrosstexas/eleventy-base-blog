@@ -1,0 +1,6 @@
+{
+  "tags": [
+    "parts"
+  ],
+  "layout": "layouts/home.njk"
+}
