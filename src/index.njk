@@ -1,19 +1,21 @@
 ---
+title: TEAZZERS SmartBrew Support Site
 layout: layouts/home.njk
 eleventyNavigation:
   key: Home
   order: 1
 ---
 
-<h1>TEAZZERS Support</h1>
-  <ul>
-    <li><a href="/kb/">SmartBrew Knowledge Base</a></li>
-    <li><a href="https://teazzers.azurewebsites.net">TeaWorld</a></li>
-    <li><a href="https://www.accurants.com">Accurants</a></li>
-    <li><a href="https://teazzers.apptricityondemand.com/">Apptricity</a></li>
+<h1>TEAZZERS SmartBrew Support</h1>
+   <ul>
+    <li><a href="/power/">Power & Electrical Issues</a></li>
+    <li><a href="/brewing/">Brewing Issues</a></li>
+    <li><a href="/heating/">Heating Issues</a></li>
+    <li><a href="/leaking/">Leaking Issues</a></li>
+    <li><a href="/config/">Configuration Issues</a></li>
+    <li><a href="/other/">Other Issues</a></li>
   </ul>
-
-<h2>Latest TeaWorld News</h2>
+<h2>Latest TEAZZERS News</h2>
 
 {% set postslist = collections.posts | head(-5) %}
 {% set postslistCounter = collections.posts | length %}
